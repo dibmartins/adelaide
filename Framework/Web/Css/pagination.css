@@ -1,0 +1,79 @@
+.page-numbers
+{
+	width: 700px;
+	padding: 5px 0px;
+	margin:0 auto;
+}
+
+.page-numbers ul
+{
+	margin: 0 auto;
+	list-style-type: none;
+	padding: 2px;
+	text-align: center;
+}
+
+.page-numbers li
+{
+	display: inline;
+	float: left;
+	margin:1px;
+	background: #FAFAD1;
+}
+
+.page-numbers li.current
+{
+}
+
+.page-numbers li.desable
+{
+	background: white;
+	font:bold 10px verdana,sans-serif;
+	border: 1px solid #cccccc;
+	padding: 2px;
+	display:block;
+	color: #cccccc;
+	text-decoration: none;	
+}
+
+.page-numbers li a
+{
+	background: #eeeeee;
+	border: 1px solid #666666;
+	padding: 2px;
+	text-decoration: none;
+	color: #000;
+	font:bold 10px verdana,sans-serif;
+	display:block;
+}
+
+.page-numbers a.current, .page-numbers li a:hover
+{
+	background: #ffffff;
+	color: #FF0000;
+	border-color:#FF0000;
+}
+
+.page-info
+{
+	float: left;
+	font:10px verdana,sans-serif;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.page-num-rows
+{
+	float: left;
+	font:10px verdana,sans-serif;
+}
+
+.select-num-rows
+{
+	font: bold 10px verdana,sans-serif;
+	margin: 1px 10px 0 5px;
+	border: 1px solid #666666;
+	background: #eeeeee;
+	width: 57px;
+	height: 18px;
+}

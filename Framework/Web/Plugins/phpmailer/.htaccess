@@ -1,0 +1,9 @@
+#Na hora de realizar o download do arquivo,deve-se permitir acesso aos arquivos
+#exportados pelo sistema. Sem isso o navegador não conseguirá realizar o downloa
+Order allow,deny
+allow from all
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
