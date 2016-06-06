@@ -10,7 +10,7 @@ Não recomendo sua utilização em novos projetos pois já existe coisa melhor n
 
 Framework HMVC created by me in 2006 using at the time, PHP 5.2
 
-The framework was named with the grandmother of my wife's name, who died in 2013 and one for whom I had great affection and admiration.
+The framework was named with my wife's grandmother name, who died in 2013 and one for whom I had great affection and admiration.
 
 This framework was used in several projects in the companies I worked.
 
